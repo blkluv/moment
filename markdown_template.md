@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just a Moment News - {today}"
-date: { datetime }
+date: "{datetime}"
 file: https://op3.dev/e/archive.org/download/momentnews/momentnews_{today}.mp3
 summary: "News for {today}"
 description: "Take a moment and catch up on {today_human}'s news."
